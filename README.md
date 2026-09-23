@@ -12,3 +12,4 @@ We highly recommend reading the [Atlantic Forest Algorithm Theoretical Basis Doc
 
 * [Collection 4](./collection_4/workflow)
 * [Collection 5](./collection_5/workflow)
+* [Collection 6](./collection_6/workflow)
